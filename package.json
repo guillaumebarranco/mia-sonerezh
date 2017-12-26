@@ -1,0 +1,24 @@
+{
+  "name": "mia-sonerezh",
+  "version": "1.0.0",
+  "description": "Node JS API for Mia to handle Sonerezh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumebarranco/mia-sonerezh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumebarranco/mia-sonerezh/issues"
+  },
+  "homepage": "https://github.com/guillaumebarranco/mia-sonerezh#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
